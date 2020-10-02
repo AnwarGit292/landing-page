@@ -1,2 +1,2 @@
 # landing-page
-new page added
+new page landing
